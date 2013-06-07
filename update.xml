@@ -1,0 +1,11 @@
+<updates>
+  <update date="01/01/13" version="1.0.1" enabled="1">
+    <links>
+      <link url="http://github.com/clestuardo/ope-eco-e/1.0.1/...." path="data/..">
+      <link url="http://github.com/clestuardo/ope-eco-e/1.0.1/...." path="data/..">
+    </links>
+    <removes>
+      <remove src="file.ext">
+    </removes>
+  </update>
+</update>
